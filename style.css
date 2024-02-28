@@ -1,4 +1,10 @@
 p {
     font-size: 1em;
     color: brown;
+
+}
+
+span {
+    color: bisque;
+    font-size: 2em;
 }
